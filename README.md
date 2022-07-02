@@ -13,7 +13,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MauricioHS92&bg_color=0d1117&color=f2f2f2&line=f63700&point=c5bc8e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MauricioHS92&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MauricioHS92&theme=juicyfresh" />
 </p>
 
 <div align="center"style="display: inline_block"><br>
