@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=be0001&height=180&section=header&text=MauricioHS92&fontSize=30&fontColor=f3c75f&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5bc8e&height=180&section=header&text={ [ ( ＠MauricioHS92  ) ] } ;&fontSize=30&fontColor=f2f2f2&animation=twinkling&fontAlignY=35"/> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3c75f&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Mauricio+Hansen+dos+Santos;I'm+Brasilian+from+Sao+Leopoldo,+RS;And+this+is+my+GitHub+profile;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2f2f2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Mauricio+Hansen+dos+Santos;I'm+Brasilian+from+Sao+Leopoldo,+RS;And+this+is+my+GitHub+profile;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MauricioHS92&show_icons=true&count_private=true&hide_border=true&title_color=fafafa&icon_color=f3c75f&text_color=be0001&bg_color=0d1117" alt="Mauricio Hansen github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MauricioHS92&show_icons=true&count_private=true&hide_border=true&title_color=c5bc8e&icon_color=c5bc8e&text_color=f63700&bg_color=0d1117" alt="Mauricio Hansen github stats" /> 
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioHS92&layout=compact&hide_border=true&title_color=fafafa&text_color=be0001&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioHS92&layout=compact&hide_border=true&title_color=c5bc8e&text_color=f63700&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MauricioHS92&bg_color=0d1117&color=fafafa&line=be0001&point=f3c75f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MauricioHS92&bg_color=0d1117&color=f2f2f2&line=f63700&point=c5bc8e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"style="display: inline_block"><br>
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -40,4 +40,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f3c75f&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5bc8e&height=120&section=footer"/>
