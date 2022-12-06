@@ -12,6 +12,8 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MauricioHS92&theme=dracula)](https://github.com/mauriciohs92/github-readme-activity-graph)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MauricioHS92&bg_color=000000&color=bd0000&line=8a5000&point=9e9e9e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MauricioHS92&theme=juicyfresh" />
 </p>
