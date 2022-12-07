@@ -13,7 +13,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MauricioHS92&bg_color=262626&color=ffffff&line=8a0000&point=ff7300&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=MauricioHS92&theme=juicyfresh](https://github-profile-trophy.vercel.app/?username=mauriciohs92&theme=juicyfresh)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mauriciohs92&theme=juicyfresh" />
 </p>
 
 <div align="center"style="display: inline_block"><br>
