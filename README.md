@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5bc8e&height=180&section=header&fontColor=f2f2f2&animation=twinkling&fontAlignY=35"/> 
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5bc8e&height=180&section=header&fontColor=f2f2f2&animation=twinkling&fontAlignY=35"/>  -->
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2f2f2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Mauricio+Hansen+dos+Santos;I'm+Brasilian+from+Sao+Leopoldo,+RS;And+this+is+my+GitHub+profile;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -10,11 +10,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioHS92&layout=compact&hide_border=true&title_color=c5bc8e&text_color=f63700&bg_color=0d1117" />
 </div>
 
+<br>
+</div>
+<div align="center">  
+ <a href="https://www.linkedin.com/in/maurício-hansen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:hansenmailpro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div> 
+<br>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MauricioHS92&bg_color=262626&color=ffffff&line=8a0000&point=ff7300&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mauriciohs92&theme=juicyfresh" />
-</p>
+</p> -->
 
 <div align="center"style="display: inline_block"><br>
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -28,20 +36,8 @@
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
   
             
-</div>
-
-<p>
-    
-</p>
-<p>
-    
-</p>
-
-<div align="center">  
- <a href="https://www.linkedin.com/in/maurício-hansen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:hansenmailpro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> 
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5bc8e&height=120&section=footer"/>
+
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c5bc8e&height=120&section=footer"/> -->
