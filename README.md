@@ -4,10 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2f2f2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Mauricio+Hansen+dos+Santos;I'm+Brasilian+from+Sao+Leopoldo,+RS;And+this+is+my+GitHub+profile;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MauricioHS92&show_icons=true&count_private=true&hide_border=true&title_color=c5bc8e&icon_color=c5bc8e&text_color=f63700&bg_color=0d1117" alt="Mauricio Hansen github stats" /> 
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioHS92&layout=compact&hide_border=true&title_color=c5bc8e&text_color=f63700&bg_color=0d1117" />
+<<div align="center">
+  <a href="https://github.com/mauriciohs92">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciohs92&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciohs92&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 
 <br>
