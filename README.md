@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2f2f2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Mauricio+Hansen;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Student of IT Management and Full Stack Web Development, passionate about innovation and technology. I believe that the future belongs to those who want it and want to make a difference. I believe in people and everyone's ability to make big changes, because we don't do anything alone.
+Student of Analysis and systems development at UNISINOS, passionate about innovation and technology. I believe that the future belongs to those who want it and want to make a difference. I believe in people and everyone's ability to make big changes, because we don't do anything alone.
 
 <div align="center">
   <a href="https://github.com/mauriciohs92/github-readme-stats">
