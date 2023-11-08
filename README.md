@@ -5,6 +5,8 @@
 
 <div align="center">Student of Analysis and systems development at UNISINOS, passionate about innovation and technology.</div>
 
+<br>
+
 <div align="center">
   <a href="https://github.com/mauriciohs92/github-readme-stats">
     <picture>
