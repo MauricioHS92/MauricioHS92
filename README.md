@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2f2f2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Mauricio+Hansen;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Student of Analysis and systems development at UNISINOS, passionate about innovation and technology.
+<div align="center">Student of Analysis and systems development at UNISINOS, passionate about innovation and technology.</div>
 
 <div align="center">
   <a href="https://github.com/mauriciohs92/github-readme-stats">
